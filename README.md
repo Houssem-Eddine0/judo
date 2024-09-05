@@ -1,16 +1,1 @@
-"Allons enfant de la patrie,
-Le jour de gloire est arrivÃ©!
-Contre nous de la tyrannie,
-L'Ã©tendard sanglant est levÃ©
-L'Ã©tendard sanglant est levÃ©
-Entendez-vous dans les campagnes
-Mugir ces fÃ©roces soldats?
-Ils viennent jusque dans vos bras
-Ã‰gorger vos fils et vos compagnes!
-Aux armes, citoyens! (Formez)
-Vos bataillons!
-Marchons! Oui, marchons!
-Qu'un sang impur
-Abreuve nos sillons!
-Sillons!
-Ouh ouh"
+"Allons enfant de la patrie, Le jour de gloire est arriv‚! Contre nous de la tyrannie, L'‚tendard sanglant est lev‚ L'‚tendard sanglant est lev‚ Entendez-vous dans les campagnes Mugir ces f‚roces soldats? Ils viennent jusque dans vos bras gorger vos fils et vos compagnes! Aux armes, citoyens!" 
